@@ -1,0 +1,12 @@
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\bin\Debug\net8.0\HelpApp.Domain.deps.json
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\bin\Debug\net8.0\HelpApp.Domain.dll
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\bin\Debug\net8.0\HelpApp.Domain.pdb
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.AssemblyInfo.cs
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.sourcelink.json
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.dll
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\refint\HelpApp.Domain.dll
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\HelpApp.Domain.pdb
+C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HelpApp.Domain\obj\Debug\net8.0\ref\HelpApp.Domain.dll

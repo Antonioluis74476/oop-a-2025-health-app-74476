@@ -22,12 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Luis Antonio Rangel/source/repos/oop-a-2025-health-app-74476/HealthApp.Razor/Pages/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Antonio Rangel/source/repos/oop-a-2025-health-app-74476/HealthApp.Razor/Pages/Doctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Luis Antonio Rangel/source/repos/oop-a-2025-health-app-74476/HealthApp.Razor/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Luis Antonio Rangel/source/repos/oop-a-2025-health-app-74476/HealthApp.Razor/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Luis Antonio Rangel/source/repos/oop-a-2025-health-app-74476/HealthApp.Razor/Pages/Pacient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Luis Antonio Rangel/source/repos/oop-a-2025-health-app-74476/HealthApp.Razor/Pages/Privacy.cshtml]
