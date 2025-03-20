@@ -145,3 +145,6 @@ C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HealthApp.
 C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HealthApp.Razor\obj\Debug\net8.0\HealthApp.Razor.pdb
 C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HealthApp.Razor\obj\Debug\net8.0\HealthApp.Razor.genruntimeconfig.cache
 C:\Users\Luis Antonio Rangel\source\repos\oop-a-2025-health-app-74476\HealthApp.Razor\obj\Debug\net8.0\ref\HealthApp.Razor.dll
+C:\Users\Luis Antonio Rangel\Source\Repos\oop-a-2025-health-app-74476\HealthApp.Razor\bin\Debug\net8.0\Bogus.dll
+C:\Users\Luis Antonio Rangel\Source\Repos\oop-a-2025-health-app-74476\HealthApp.Razor\bin\Debug\net8.0\HelpApp.Domain.dll
+C:\Users\Luis Antonio Rangel\Source\Repos\oop-a-2025-health-app-74476\HealthApp.Razor\bin\Debug\net8.0\HelpApp.Domain.pdb

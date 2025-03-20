@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luis Antonio Rangel\\source\\repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj": {}
+    "C:\\Users\\Luis Antonio Rangel\\Source\\Repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luis Antonio Rangel\\source\\repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj": {
+    "C:\\Users\\Luis Antonio Rangel\\Source\\Repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luis Antonio Rangel\\source\\repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Luis Antonio Rangel\\Source\\Repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj",
         "projectName": "HealthApp.Tests",
-        "projectPath": "C:\\Users\\Luis Antonio Rangel\\source\\repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj",
+        "projectPath": "C:\\Users\\Luis Antonio Rangel\\Source\\Repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\HealthApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luis Antonio Rangel\\source\\repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Luis Antonio Rangel\\Source\\Repos\\oop-a-2025-health-app-74476\\HealthApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

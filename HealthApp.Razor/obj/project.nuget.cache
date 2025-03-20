@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "n7A7gOReboE=",
+  "dgSpecHash": "xi4Hpr3tQCg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luis Antonio Rangel\\source\\repos\\oop-a-2025-health-app-74476\\HealthApp.Razor\\HealthApp.Razor.csproj",
+  "projectFilePath": "C:\\Users\\Luis Antonio Rangel\\Source\\Repos\\oop-a-2025-health-app-74476\\HealthApp.Razor\\HealthApp.Razor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\bogus\\35.6.2\\bogus.35.6.2.nupkg.sha512",
     "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",
     "C:\\Users\\Luis Antonio Rangel\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.8\\microsoft.aspnetcore.cryptography.keyderivation.8.0.8.nupkg.sha512",

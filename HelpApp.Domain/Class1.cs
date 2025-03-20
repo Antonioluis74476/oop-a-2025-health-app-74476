@@ -1,7 +1,11 @@
-﻿namespace HelpApp.Domain
+﻿namespace HealthApp.Domain
 {
-    public class Class1
+    public class Patient
     {
+        public string Id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Email { get; set; }
 
     }
 }
